@@ -1,0 +1,138 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MarsRover.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MarsRovers.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MarsRover.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarsRover.Repository.dll": {}
+        }
+      },
+      "MarsRover.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MarsRover.Repository": "1.0.0",
+          "MarsRovers.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MarsRover.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarsRover.Service.dll": {}
+        }
+      },
+      "MarsRovers.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MarsRovers.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarsRovers.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarsRover.Repository/1.0.0": {
+      "type": "project",
+      "path": "../MarsRover.Repository/MarsRover.Repository.csproj",
+      "msbuildProject": "../MarsRover.Repository/MarsRover.Repository.csproj"
+    },
+    "MarsRover.Service/1.0.0": {
+      "type": "project",
+      "path": "../MarsRover.Service/MarsRover.Service.csproj",
+      "msbuildProject": "../MarsRover.Service/MarsRover.Service.csproj"
+    },
+    "MarsRovers.Data/1.0.0": {
+      "type": "project",
+      "path": "../MarsRovers.Data/MarsRovers.Data.csproj",
+      "msbuildProject": "../MarsRovers.Data/MarsRovers.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MarsRover.Repository >= 1.0.0",
+      "MarsRover.Service >= 1.0.0",
+      "MarsRovers.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\naveen\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\naveen\\Documents\\soujanya\\Canbium\\MarsRovers\\MarsRovers.csproj",
+      "projectName": "MarsRovers",
+      "projectPath": "C:\\Users\\naveen\\Documents\\soujanya\\Canbium\\MarsRovers\\MarsRovers.csproj",
+      "packagesPath": "C:\\Users\\naveen\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\naveen\\Documents\\soujanya\\Canbium\\MarsRovers\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\naveen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\naveen\\Documents\\soujanya\\Canbium\\MarsRover.Repository\\MarsRover.Repository.csproj": {
+              "projectPath": "C:\\Users\\naveen\\Documents\\soujanya\\Canbium\\MarsRover.Repository\\MarsRover.Repository.csproj"
+            },
+            "C:\\Users\\naveen\\Documents\\soujanya\\Canbium\\MarsRover.Service\\MarsRover.Service.csproj": {
+              "projectPath": "C:\\Users\\naveen\\Documents\\soujanya\\Canbium\\MarsRover.Service\\MarsRover.Service.csproj"
+            },
+            "C:\\Users\\naveen\\Documents\\soujanya\\Canbium\\MarsRovers.Data\\MarsRovers.Data.csproj": {
+              "projectPath": "C:\\Users\\naveen\\Documents\\soujanya\\Canbium\\MarsRovers.Data\\MarsRovers.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRovers.Data\bin\Debug\netcoreapp3.1\MarsRovers.Data.deps.json
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRovers.Data\bin\Debug\netcoreapp3.1\MarsRovers.Data.dll
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRovers.Data\bin\Debug\netcoreapp3.1\MarsRovers.Data.pdb
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRovers.Data\obj\Debug\netcoreapp3.1\MarsRovers.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRovers.Data\obj\Debug\netcoreapp3.1\MarsRovers.Data.AssemblyInfoInputs.cache
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRovers.Data\obj\Debug\netcoreapp3.1\MarsRovers.Data.AssemblyInfo.cs
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRovers.Data\obj\Debug\netcoreapp3.1\MarsRovers.Data.csproj.CoreCompileInputs.cache
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRovers.Data\obj\Debug\netcoreapp3.1\MarsRovers.Data.dll
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRovers.Data\obj\Debug\netcoreapp3.1\MarsRovers.Data.pdb

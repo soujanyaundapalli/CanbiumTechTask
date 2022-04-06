@@ -1,0 +1,13 @@
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\bin\Debug\netcoreapp3.1\MarsRover.Repository.deps.json
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\bin\Debug\netcoreapp3.1\MarsRover.Repository.dll
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\bin\Debug\netcoreapp3.1\MarsRover.Repository.pdb
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\bin\Debug\netcoreapp3.1\MarsRovers.Data.dll
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\bin\Debug\netcoreapp3.1\MarsRovers.Data.pdb
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\obj\Debug\netcoreapp3.1\MarsRover.Repository.csproj.AssemblyReference.cache
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\obj\Debug\netcoreapp3.1\MarsRover.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\obj\Debug\netcoreapp3.1\MarsRover.Repository.AssemblyInfoInputs.cache
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\obj\Debug\netcoreapp3.1\MarsRover.Repository.AssemblyInfo.cs
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\obj\Debug\netcoreapp3.1\MarsRover.Repository.csproj.CoreCompileInputs.cache
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\obj\Debug\netcoreapp3.1\MarsRover.Repository.csproj.CopyComplete
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\obj\Debug\netcoreapp3.1\MarsRover.Repository.dll
+C:\Users\naveen\Documents\soujanya\Canbium\MarsRover.Repository\obj\Debug\netcoreapp3.1\MarsRover.Repository.pdb
